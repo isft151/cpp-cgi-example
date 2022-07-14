@@ -1,2 +1,2 @@
 # cpp-cgi-example
-Basic CGI example on C++
+Ejemplo básico de uso de la interfaz CGI mediante C++
